@@ -1,0 +1,24 @@
+{
+  "name": "comp_testcafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woytekn/comp_testCafe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woytekn/comp_testCafe/issues"
+  },
+  "homepage": "https://github.com/woytekn/comp_testCafe#readme",
+  "devDependencies": {
+    "@percy/testcafe": "^1.0.3",
+    "testcafe": "^2.5.0",
+    "testcafe-blink-diff": "^0.5.4"
+  }
+}
